@@ -1,0 +1,1 @@
+This is a simple program that was designed to help captain Morgan manage his cargo ship business. It has a variety of options that suit the company's information storage necessities: those include information about the clients and the ship's cargo. It also has a set of functions that continously update the information based on the deals that are made.
